@@ -1,0 +1,24 @@
+﻿*
+{
+    padding: 0;
+    margin: 0;
+}
+body
+{
+    background-image: url(../images/pattern.jpg);
+}
+#demo-wrapper
+{
+    width: 600px;
+    margin: 40px auto;
+}
+#button-less
+{
+    margin-top: 20px;
+}
+#button-less .akordeon-item-head-container
+{
+    left: 0px !important;
+}
+
+
